@@ -9,7 +9,7 @@ function Herosection() {
     const timeoutId = setTimeout(() => setIsVisible(true), 1000);
 
     const textArray =
-      "Hei, my name is Amith Jagannath Soorenji and I'm a third-year computer science student. I'm passionate about using technology to solve real-world problems and make a positive impact in people's lives.\n".split(
+      "Hi, my name is Amith Jagannath Soorenji currently working at Oracle. I'm passionate about using technology to solve real-world problems and make a positive impact in people's lives.\n".split(
         ""
       );
     let currentIndex = 0;
